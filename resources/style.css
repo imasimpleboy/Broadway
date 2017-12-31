@@ -1,3 +1,46 @@
-*{
+* {
+  font-family: Helvetica;
   text-align: center;
+}
+
+h1, h2, h3 {
+  font-weight:;
+}
+
+h1 {
+  font-size: 70px;
+  color: white;
+}
+
+.hdnav {
+  font-size: 18px;
+  color: white;
+  list-style: none;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+#diny{
+  color: white;
+  background-image: url("the-flatiron-building.png");
+}
+
+.header {
+  background-image: url("the-flatiron-building.png")
+}
+
+.footer {
+  text-align: left;
+  background-color: dimgray;
+}
+
+#copyright {
+  font-size: 11px;
+  color: white;
 }
